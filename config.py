@@ -20,7 +20,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://david:Nath@cluster0.dv0ma.mongo
 DB_NAME = os.environ.get("DB_NAME", "cluster0")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002318835253")) #database id 
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002141851856")) #database id 
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002142179117"))
 FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002136064911"))
 FORCE_SUB_CHANNEL3 = int(os.environ.get("FORCE_SUB_CHANNEL3", "-1002110905372"))
