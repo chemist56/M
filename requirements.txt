@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-Pyrofork==2.3.40
+Pyrofork
 TgCrypto
 pyromod==1.5
 
